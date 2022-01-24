@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @twalibnurrein07
 - 👀 I’m interested in web designing,learning coding languages
-- 🌱 I’m currently learning React Framework.Knowleadgeable in html,css,javasipst,jquery ,EJS templating
+- 🌱 I’m currently working on React projects.Knowleadgeable in html,css,javasipst,jquery ,EJS templating,React
 - 💞️ I have knowledge on how to use nodejs. and its packages,command line,how to use APIS
 - Still learning more about web design each day
 - 📫 How to reach me?I am.available in the slack community @Twalib Nurrein
